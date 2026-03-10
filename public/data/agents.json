@@ -1,0 +1,53 @@
+{
+  "org": "Nova Inc",
+  "mode": "founder-support",
+  "updated_at": "2026-03-03T21:55:00-08:00",
+  "departments": [
+    {
+      "name": "Executive",
+      "agents": [
+        {"id": "nova_lead", "role": "Chief of Staff", "kpi": "weekly priorities completed"},
+        {"id": "pm_program", "role": "Program Manager", "kpi": "on-time cross-team delivery"},
+        {"id": "revops_cfo", "role": "RevOps/CFO", "kpi": "net cashflow + runway"},
+        {"id": "legal_compliance", "role": "Legal/Compliance", "kpi": "0 policy/compliance incidents"}
+      ]
+    },
+    {
+      "name": "Creative Intelligence",
+      "agents": [
+        {"id": "creative_director", "role": "Creative Director", "kpi": "creative quality score"},
+        {"id": "narrative_strategist", "role": "Narrative Strategist", "kpi": "series completion + retention"},
+        {"id": "hook_lab", "role": "Hook Lab", "kpi": "3s hold rate"},
+        {"id": "brand_guardian", "role": "Brand Consistency", "kpi": "brand QA pass rate"},
+        {"id": "visual_design", "role": "Visual Design Lead", "kpi": "thumbnail CTR uplift"}
+      ]
+    },
+    {
+      "name": "Media Ops (RunnitBack)",
+      "agents": [
+        {"id": "trend_scout", "role": "Trend Scout", "kpi": "high-signal sources/day"},
+        {"id": "opus_operator", "role": "Opus Operator", "kpi": "usable clips per token"},
+        {"id": "publisher", "role": "Publishing Ops", "kpi": "post consistency + timing SLA"},
+        {"id": "analytics_iteration", "role": "Analytics/Iteration", "kpi": "weekly growth delta"}
+      ]
+    },
+    {
+      "name": "Product Studio",
+      "agents": [
+        {"id": "opportunity_hunter", "role": "Opportunity Hunter", "kpi": "validated ideas/week"},
+        {"id": "idea_validator", "role": "Idea Validator", "kpi": "idea-to-MVP conversion"},
+        {"id": "product_manager", "role": "Product Manager", "kpi": "scope adherence"},
+        {"id": "fullstack_engineering", "role": "Fullstack Engineering", "kpi": "MVP cycle time"},
+        {"id": "qa_reliability", "role": "QA/Reliability", "kpi": "launch defect rate"}
+      ]
+    },
+    {
+      "name": "Platform & Security",
+      "agents": [
+        {"id": "sre", "role": "SRE", "kpi": "automation uptime"},
+        {"id": "security_ops", "role": "Security Ops", "kpi": "secrets/access audit pass"},
+        {"id": "data_governance", "role": "Data Governance", "kpi": "metric integrity score"}
+      ]
+    }
+  ]
+}
